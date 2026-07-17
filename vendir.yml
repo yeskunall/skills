@@ -47,3 +47,12 @@ directories:
       ref: origin/main
       depth: 1
     newRootPath: skills/finishing-a-development-branch
+
+- path: skills/git-commit
+  contents:
+  - path: .
+    git:
+      url: https://github.com/github/awesome-copilot.git
+      ref: origin/main
+      depth: 1
+    newRootPath: skills/git-commit
