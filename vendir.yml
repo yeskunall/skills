@@ -209,3 +209,12 @@ directories:
       ref: origin/main
       depth: 1
     newRootPath: skills/react-best-practices
+
+- path: skills/vocabulary
+  contents:
+  - path: .
+    git:
+      url: https://github.com/index-how/vocabulary.git
+      ref: origin/main
+      depth: 1
+    newRootPath: skills/vocabulary
