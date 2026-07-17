@@ -200,3 +200,12 @@ directories:
       ref: origin/main
       depth: 1
     newRootPath: skills/modern-web-guidance
+
+- path: skills/react-best-practices
+  contents:
+  - path: .
+    git:
+      url: https://github.com/vercel-labs/agent-skills.git
+      ref: origin/main
+      depth: 1
+    newRootPath: skills/react-best-practices

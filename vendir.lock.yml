@@ -177,3 +177,9 @@ directories:
       - v0.0.176
     path: .
   path: skills/modern-web-guidance
+- contents:
+  - git:
+      commitTitle: 'Merge pull request #287 from brunoreinstein-cloud/fix/windows-vercel-spawn...'
+      sha: f8a72b9603728bb92a217a879b7e62e43ad76c81
+    path: .
+  path: skills/react-best-practices
