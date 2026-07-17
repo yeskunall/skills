@@ -1,0 +1,20 @@
+# See https://editorconfig-specification.readthedocs.io/en/latest/#supported-pairs for a list of supported pairs
+root = true
+
+[*]
+charset = utf-8
+end_of_line = lf
+indent_size = 2
+indent_style = space
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+[*.{py}]
+end_of_line = lf
+indent_size = 4
+indent_style = space
+
+[*.{toml,yml}]
+end_of_line = lf
+indent_size = 2
+indent_style = space
