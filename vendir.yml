@@ -20,3 +20,12 @@ directories:
       ref: origin/main
       depth: 1
     newRootPath: skills/dispatching-parallel-agents
+
+- path: skills/domain-modeling
+  contents:
+  - path: .
+    git:
+      url: https://github.com/mattpocock/skills.git
+      ref: origin/main
+      depth: 1
+    newRootPath: skills/engineering/domain-modeling

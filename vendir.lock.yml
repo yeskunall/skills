@@ -18,3 +18,9 @@ directories:
       - v6.1.1
     path: .
   path: skills/dispatching-parallel-agents
+- contents:
+  - git:
+      commitTitle: 'Merge pull request #586 from mattpocock/batch-grill-me-granular-facts...'
+      sha: 9603c1cc8118d08bc1b3bf34cf714f62178dea3b
+    path: .
+  path: skills/domain-modeling
