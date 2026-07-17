@@ -146,3 +146,12 @@ directories:
       ref: origin/main
       depth: 1
     newRootPath: skills/using-superpowers
+
+- path: skills/verification-before-completion
+  contents:
+  - path: .
+    git:
+      url: https://github.com/obra/superpowers.git
+      ref: origin/main
+      depth: 1
+    newRootPath: skills/verification-before-completion
