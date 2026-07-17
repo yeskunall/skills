@@ -38,3 +38,12 @@ directories:
       ref: origin/main
       depth: 1
     newRootPath: skills/executing-plans
+
+- path: skills/finishing-a-development-branch
+  contents:
+  - path: .
+    git:
+      url: https://github.com/obra/superpowers.git
+      ref: origin/main
+      depth: 1
+    newRootPath: skills/finishing-a-development-branch
