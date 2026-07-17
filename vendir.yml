@@ -83,3 +83,12 @@ directories:
       ref: origin/main
       depth: 1
     newRootPath: plugins/improve-claude-md/skills/improve-claude-md
+
+- path: skills/receiving-code-review
+  contents:
+  - path: .
+    git:
+      url: https://github.com/obra/superpowers.git
+      ref: origin/main
+      depth: 1
+    newRootPath: skills/receiving-code-review
