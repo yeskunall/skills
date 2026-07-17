@@ -92,3 +92,12 @@ directories:
       ref: origin/main
       depth: 1
     newRootPath: skills/receiving-code-review
+
+- path: skills/requesting-code-review
+  contents:
+  - path: .
+    git:
+      url: https://github.com/obra/superpowers.git
+      ref: origin/main
+      depth: 1
+    newRootPath: skills/requesting-code-review
