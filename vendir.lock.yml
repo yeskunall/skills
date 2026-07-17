@@ -189,3 +189,10 @@ directories:
       sha: b2d53205a03a6538c394b22f28ea175fdbfb97e3
     path: .
   path: skills/vocabulary
+- contents:
+  - git:
+      commitTitle: 'Merge pull request #287 from brunoreinstein-cloud/fix/windows-vercel-spawn...'
+      sha: f8a72b9603728bb92a217a879b7e62e43ad76c81
+    path: .
+  path: skills/web-design-guidelines
+kind: LockConfig

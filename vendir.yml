@@ -218,3 +218,12 @@ directories:
       ref: origin/main
       depth: 1
     newRootPath: skills/vocabulary
+
+- path: skills/web-design-guidelines
+  contents:
+  - path: .
+    git:
+      url: https://github.com/vercel-labs/agent-skills.git
+      ref: origin/main
+      depth: 1
+    newRootPath: skills/web-design-guidelines
