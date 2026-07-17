@@ -191,3 +191,12 @@ directories:
       ref: origin/main
       depth: 1
     newRootPath: .agents/skills/impeccable
+
+- path: skills/modern-web-guidance
+  contents:
+  - path: .
+    git:
+      url: https://github.com/GoogleChrome/modern-web-guidance.git
+      ref: origin/main
+      depth: 1
+    newRootPath: skills/modern-web-guidance
