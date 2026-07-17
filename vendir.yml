@@ -56,3 +56,12 @@ directories:
       ref: origin/main
       depth: 1
     newRootPath: skills/git-commit
+
+- path: skills/grill-with-docs
+  contents:
+  - path: .
+    git:
+      url: https://github.com/mattpocock/skills.git
+      ref: origin/main
+      depth: 1
+    newRootPath: skills/engineering/grill-with-docs
