@@ -101,3 +101,12 @@ directories:
       ref: origin/main
       depth: 1
     newRootPath: skills/requesting-code-review
+
+- path: skills/subagent-driven-development
+  contents:
+  - path: .
+    git:
+      url: https://github.com/obra/superpowers.git
+      ref: origin/main
+      depth: 1
+    newRootPath: skills/subagent-driven-development
