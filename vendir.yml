@@ -173,3 +173,12 @@ directories:
       ref: origin/main
       depth: 1
     newRootPath: skills/writing-skills
+
+- path: skills/emil-design-eng
+  contents:
+  - path: .
+    git:
+      url: https://github.com/emilkowalski/skill.git
+      ref: origin/main
+      depth: 1
+    newRootPath: skills/emil-design-eng
