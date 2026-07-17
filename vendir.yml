@@ -74,3 +74,12 @@ directories:
       ref: origin/main
       depth: 1
     newRootPath: skills/productivity/grilling
+
+- path: skills/improve-claude-md
+  contents:
+  - path: .
+    git:
+      url: https://github.com/humanlayer/skills.git
+      ref: origin/main
+      depth: 1
+    newRootPath: plugins/improve-claude-md/skills/improve-claude-md

@@ -61,3 +61,9 @@ directories:
       sha: 9603c1cc8118d08bc1b3bf34cf714f62178dea3b
     path: .
   path: skills/grilling
+- contents:
+  - git:
+      commitTitle: 'feat: add design-control-loop skill...'
+      sha: 39fb32786ae7a7cd864cf2c237148c38b1e4db07
+    path: .
+  path: skills/improve-claude-md
