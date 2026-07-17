@@ -182,3 +182,12 @@ directories:
       ref: origin/main
       depth: 1
     newRootPath: skills/emil-design-eng
+
+- path: skills/impeccable
+  contents:
+  - path: .
+    git:
+      url: https://github.com/pbakaus/impeccable.git
+      ref: origin/main
+      depth: 1
+    newRootPath: .agents/skills/impeccable

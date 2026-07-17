@@ -163,3 +163,9 @@ directories:
       sha: 6bf24434f7730ad169077756cf9c7cd7bd675fc6
     path: .
   path: skills/emil-design-eng
+- contents:
+  - git:
+      commitTitle: Fix light-mode command demo contrast (#370)...
+      sha: 8259c28209b92792005cec14dad573df39f68eaf
+    path: .
+  path: skills/impeccable
