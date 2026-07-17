@@ -119,3 +119,12 @@ directories:
       ref: origin/main
       depth: 1
     newRootPath: skills/systematic-debugging
+
+- path: skills/test-driven-development
+  contents:
+  - path: .
+    git:
+      url: https://github.com/obra/superpowers.git
+      ref: origin/main
+      depth: 1
+    newRootPath: skills/test-driven-development
