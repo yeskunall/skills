@@ -137,3 +137,12 @@ directories:
       ref: origin/main
       depth: 1
     newRootPath: skills/using-git-worktrees
+
+- path: skills/using-superpowers
+  contents:
+  - path: .
+    git:
+      url: https://github.com/obra/superpowers.git
+      ref: origin/main
+      depth: 1
+    newRootPath: skills/using-superpowers
