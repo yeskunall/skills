@@ -55,3 +55,9 @@ directories:
       sha: 9603c1cc8118d08bc1b3bf34cf714f62178dea3b
     path: .
   path: skills/grill-with-docs
+- contents:
+  - git:
+      commitTitle: 'Merge pull request #586 from mattpocock/batch-grill-me-granular-facts...'
+      sha: 9603c1cc8118d08bc1b3bf34cf714f62178dea3b
+    path: .
+  path: skills/grilling
