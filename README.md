@@ -5,8 +5,6 @@
 ## Syncing
 
 ```sh
-brew install vendir
-
 # The `--locked` flag reproduces the exact revisions recorded in `vendir.lock.yml`
 vendir sync --locked
 ```
