@@ -5,9 +5,11 @@
 ## Syncing
 
 ```sh
-# The `--locked` flag reproduces the exact revisions recorded in `vendir.lock.yml`
 vendir sync --locked
 ```
+
+> [!NOTE]
+> The `--locked` flag reproduces the exact revisions recorded in `vendir.lock.yml`.
 
 Pull the latest revisions allowed by `vendir.yml` and update the lockfile:
 
@@ -15,7 +17,7 @@ Pull the latest revisions allowed by `vendir.yml` and update the lockfile:
 vendir sync
 ```
 
-> [!NOTE]
+> [!WARNING]
 > Do not edit vendored skill directories directly. A future sync will overwrite those changes. Update the upstream source or `vendir.yml` instead.
 
 ## Inventory
