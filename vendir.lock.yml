@@ -47,9 +47,9 @@ directories:
   path: skills/finishing-a-development-branch
 - contents:
   - git:
-      commitTitle: 'chore: Update gem-team plugin version to 1.84.0 and refine concurrency
-        language in agent execution steps (#2322)...'
-      sha: 5668f70312061448262d3160d2ab8b7b105ab4db
+      commitTitle: Fix nested code fences in aws-well-architected-review issue template
+        (#2449)...
+      sha: b94ae92ab0a6fa695803f1b79b2e41a904a237db
     path: .
   path: skills/git-commit
 - contents:
