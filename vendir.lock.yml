@@ -183,10 +183,10 @@ directories:
   path: skills/impeccable
 - contents:
   - git:
-      commitTitle: Release v0.0.176
-      sha: c54db496e0d2137a90d197c9c01ee9a290c1b2cf
+      commitTitle: Release v0.0.178
+      sha: ccb800c9519286eaa7263d30c409e5bc9c0c6d9f
       tags:
-      - v0.0.176
+      - v0.0.178
     path: .
   path: skills/modern-web-guidance
 - contents:
