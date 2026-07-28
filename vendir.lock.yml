@@ -168,8 +168,8 @@ directories:
   path: skills/writing-skills
 - contents:
   - git:
-      commitTitle: Update README.md
-      sha: 6bf24434f7730ad169077756cf9c7cd7bd675fc6
+      commitTitle: Add /prototype skill
+      sha: 70744e3816f1d93eafb697161a8b880a7384c5ff
     path: .
   path: skills/emil-design-eng
 - contents:

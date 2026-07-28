@@ -27,7 +27,7 @@ vendir sync
 | `brainstorming` | [`obra/superpowers`](https://github.com/obra/superpowers/tree/3dcbd5c4b48e02263fbf4a3c01e3fe4f81d584d9/skills/brainstorming) |
 | `dispatching-parallel-agents` | [`obra/superpowers`](https://github.com/obra/superpowers/tree/3dcbd5c4b48e02263fbf4a3c01e3fe4f81d584d9/skills/dispatching-parallel-agents) |
 | `domain-modeling` | [`mattpocock/skills`](https://github.com/mattpocock/skills/tree/ed37663cc5fbef691ddfecd080dff42f7e7e350d/skills/engineering/domain-modeling) |
-| `emil-design-eng` | [`emilkowalski/skill`](https://github.com/emilkowalski/skill/tree/6bf24434f7730ad169077756cf9c7cd7bd675fc6/skills/emil-design-eng) |
+| `emil-design-eng` | [`emilkowalski/skill`](https://github.com/emilkowalski/skill/tree/70744e3816f1d93eafb697161a8b880a7384c5ff/skills/emil-design-eng) |
 | `executing-plans` | [`obra/superpowers`](https://github.com/obra/superpowers/tree/3dcbd5c4b48e02263fbf4a3c01e3fe4f81d584d9/skills/executing-plans) |
 | `finishing-a-development-branch` | [`obra/superpowers`](https://github.com/obra/superpowers/tree/3dcbd5c4b48e02263fbf4a3c01e3fe4f81d584d9/skills/finishing-a-development-branch) |
 | `git-commit` | [`github/awesome-copilot`](https://github.com/github/awesome-copilot/tree/b94ae92ab0a6fa695803f1b79b2e41a904a237db/skills/git-commit) |
