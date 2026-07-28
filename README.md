@@ -33,7 +33,7 @@ vendir sync
 | `git-commit` | [`github/awesome-copilot`](https://github.com/github/awesome-copilot/tree/b94ae92ab0a6fa695803f1b79b2e41a904a237db/skills/git-commit) |
 | `grill-with-docs` | [`mattpocock/skills`](https://github.com/mattpocock/skills/tree/ed37663cc5fbef691ddfecd080dff42f7e7e350d/skills/engineering/grill-with-docs) |
 | `grilling` | [`mattpocock/skills`](https://github.com/mattpocock/skills/tree/ed37663cc5fbef691ddfecd080dff42f7e7e350d/skills/productivity/grilling) |
-| `impeccable` | [`pbakaus/impeccable`](https://github.com/pbakaus/impeccable/tree/8259c28209b92792005cec14dad573df39f68eaf/.agents/skills/impeccable) |
+| `impeccable` | [`pbakaus/impeccable`](https://github.com/pbakaus/impeccable/tree/68b1129634a1cdd9a0ba50b27376c71b4b083ae8/.agents/skills/impeccable) |
 | `improve-claude-md` | [`humanlayer/skills`](https://github.com/humanlayer/skills/tree/39fb32786ae7a7cd864cf2c237148c38b1e4db07/plugins/improve-claude-md/skills/improve-claude-md) |
 | `modern-web-guidance` | [`GoogleChrome/modern-web-guidance`](https://github.com/GoogleChrome/modern-web-guidance/tree/c54db496e0d2137a90d197c9c01ee9a290c1b2cf/skills/modern-web-guidance) |
 | `react-best-practices` | [`vercel-labs/agent-skills`](https://github.com/vercel-labs/agent-skills/tree/f8a72b9603728bb92a217a879b7e62e43ad76c81/skills/react-best-practices) |
