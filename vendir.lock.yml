@@ -20,10 +20,11 @@ directories:
   path: skills/dispatching-parallel-agents
 - contents:
   - git:
-      commitTitle: 'Merge pull request #586 from mattpocock/batch-grill-me-granular-facts...'
-      sha: 9603c1cc8118d08bc1b3bf34cf714f62178dea3b
+      commitTitle: 'refactor(to-tickets): remove redundant instructions for ticket
+        implementation'
+      sha: ed37663cc5fbef691ddfecd080dff42f7e7e350d
       tags:
-      - v1.1.0-39-g9603c1c
+      - v1.1.0-40-ged37663
     path: .
   path: skills/domain-modeling
 - contents:
@@ -53,18 +54,20 @@ directories:
   path: skills/git-commit
 - contents:
   - git:
-      commitTitle: 'Merge pull request #586 from mattpocock/batch-grill-me-granular-facts...'
-      sha: 9603c1cc8118d08bc1b3bf34cf714f62178dea3b
+      commitTitle: 'refactor(to-tickets): remove redundant instructions for ticket
+        implementation'
+      sha: ed37663cc5fbef691ddfecd080dff42f7e7e350d
       tags:
-      - v1.1.0-39-g9603c1c
+      - v1.1.0-40-ged37663
     path: .
   path: skills/grill-with-docs
 - contents:
   - git:
-      commitTitle: 'Merge pull request #586 from mattpocock/batch-grill-me-granular-facts...'
-      sha: 9603c1cc8118d08bc1b3bf34cf714f62178dea3b
+      commitTitle: 'refactor(to-tickets): remove redundant instructions for ticket
+        implementation'
+      sha: ed37663cc5fbef691ddfecd080dff42f7e7e350d
       tags:
-      - v1.1.0-39-g9603c1c
+      - v1.1.0-40-ged37663
     path: .
   path: skills/grilling
 - contents:
