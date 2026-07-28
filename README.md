@@ -36,7 +36,7 @@ vendir sync
 | `impeccable` | [`pbakaus/impeccable`](https://github.com/pbakaus/impeccable/tree/68b1129634a1cdd9a0ba50b27376c71b4b083ae8/.agents/skills/impeccable) |
 | `improve-claude-md` | [`humanlayer/skills`](https://github.com/humanlayer/skills/tree/39fb32786ae7a7cd864cf2c237148c38b1e4db07/plugins/improve-claude-md/skills/improve-claude-md) |
 | `modern-web-guidance` | [`GoogleChrome/modern-web-guidance`](https://github.com/GoogleChrome/modern-web-guidance/tree/ccb800c9519286eaa7263d30c409e5bc9c0c6d9f/skills/modern-web-guidance) |
-| `react-best-practices` | [`vercel-labs/agent-skills`](https://github.com/vercel-labs/agent-skills/tree/f8a72b9603728bb92a217a879b7e62e43ad76c81/skills/react-best-practices) |
+| `react-best-practices` | [`vercel-labs/agent-skills`](https://github.com/vercel-labs/agent-skills/tree/7c180d9044c9ae2b442b567aad4e42a28dd5ed62/skills/react-best-practices) |
 | `receiving-code-review` | [`obra/superpowers`](https://github.com/obra/superpowers/tree/3dcbd5c4b48e02263fbf4a3c01e3fe4f81d584d9/skills/receiving-code-review) |
 | `requesting-code-review` | [`obra/superpowers`](https://github.com/obra/superpowers/tree/3dcbd5c4b48e02263fbf4a3c01e3fe4f81d584d9/skills/requesting-code-review) |
 | `subagent-driven-development` | [`obra/superpowers`](https://github.com/obra/superpowers/tree/3dcbd5c4b48e02263fbf4a3c01e3fe4f81d584d9/skills/subagent-driven-development) |
@@ -47,6 +47,6 @@ vendir sync
 | `using-superpowers` | [`obra/superpowers`](https://github.com/obra/superpowers/tree/3dcbd5c4b48e02263fbf4a3c01e3fe4f81d584d9/skills/using-superpowers) |
 | `verification-before-completion` | [`obra/superpowers`](https://github.com/obra/superpowers/tree/3dcbd5c4b48e02263fbf4a3c01e3fe4f81d584d9/skills/verification-before-completion) |
 | `vocabulary` | [`index-how/vocabulary`](https://github.com/index-how/vocabulary/tree/b2d53205a03a6538c394b22f28ea175fdbfb97e3/skills/vocabulary) |
-| `web-design-guidelines` | [`vercel-labs/agent-skills`](https://github.com/vercel-labs/agent-skills/tree/f8a72b9603728bb92a217a879b7e62e43ad76c81/skills/web-design-guidelines) |
+| `web-design-guidelines` | [`vercel-labs/agent-skills`](https://github.com/vercel-labs/agent-skills/tree/7c180d9044c9ae2b442b567aad4e42a28dd5ed62/skills/web-design-guidelines) |
 | `writing-plans` | [`obra/superpowers`](https://github.com/obra/superpowers/tree/3dcbd5c4b48e02263fbf4a3c01e3fe4f81d584d9/skills/writing-plans) |
 | `writing-skills` | [`obra/superpowers`](https://github.com/obra/superpowers/tree/3dcbd5c4b48e02263fbf4a3c01e3fe4f81d584d9/skills/writing-skills) |

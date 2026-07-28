@@ -191,8 +191,8 @@ directories:
   path: skills/modern-web-guidance
 - contents:
   - git:
-      commitTitle: 'Merge pull request #287 from brunoreinstein-cloud/fix/windows-vercel-spawn...'
-      sha: f8a72b9603728bb92a217a879b7e62e43ad76c81
+      commitTitle: 'Merge pull request #310 from vercel-labs/fix-install-command...'
+      sha: 7c180d9044c9ae2b442b567aad4e42a28dd5ed62
     path: .
   path: skills/react-best-practices
 - contents:
@@ -203,8 +203,8 @@ directories:
   path: skills/vocabulary
 - contents:
   - git:
-      commitTitle: 'Merge pull request #287 from brunoreinstein-cloud/fix/windows-vercel-spawn...'
-      sha: f8a72b9603728bb92a217a879b7e62e43ad76c81
+      commitTitle: 'Merge pull request #310 from vercel-labs/fix-install-command...'
+      sha: 7c180d9044c9ae2b442b567aad4e42a28dd5ed62
     path: .
   path: skills/web-design-guidelines
 kind: LockConfig
