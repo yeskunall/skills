@@ -9,7 +9,6 @@ directories:
     git:
       url: https://github.com/obra/superpowers.git
       ref: origin/main
-      depth: 1
     newRootPath: skills/brainstorming
 
 - path: skills/dispatching-parallel-agents
@@ -18,7 +17,6 @@ directories:
     git:
       url: https://github.com/obra/superpowers.git
       ref: origin/main
-      depth: 1
     newRootPath: skills/dispatching-parallel-agents
 
 - path: skills/domain-modeling
@@ -27,7 +25,6 @@ directories:
     git:
       url: https://github.com/mattpocock/skills.git
       ref: origin/main
-      depth: 1
     newRootPath: skills/engineering/domain-modeling
 
 - path: skills/executing-plans
@@ -36,7 +33,6 @@ directories:
     git:
       url: https://github.com/obra/superpowers.git
       ref: origin/main
-      depth: 1
     newRootPath: skills/executing-plans
 
 - path: skills/finishing-a-development-branch
@@ -45,7 +41,6 @@ directories:
     git:
       url: https://github.com/obra/superpowers.git
       ref: origin/main
-      depth: 1
     newRootPath: skills/finishing-a-development-branch
 
 - path: skills/git-commit
@@ -54,7 +49,6 @@ directories:
     git:
       url: https://github.com/github/awesome-copilot.git
       ref: origin/main
-      depth: 1
     newRootPath: skills/git-commit
 
 - path: skills/grill-with-docs
@@ -63,7 +57,6 @@ directories:
     git:
       url: https://github.com/mattpocock/skills.git
       ref: origin/main
-      depth: 1
     newRootPath: skills/engineering/grill-with-docs
 
 - path: skills/grilling
@@ -72,7 +65,6 @@ directories:
     git:
       url: https://github.com/mattpocock/skills.git
       ref: origin/main
-      depth: 1
     newRootPath: skills/productivity/grilling
 
 - path: skills/improve-claude-md
@@ -81,7 +73,6 @@ directories:
     git:
       url: https://github.com/humanlayer/skills.git
       ref: origin/main
-      depth: 1
     newRootPath: plugins/improve-claude-md/skills/improve-claude-md
 
 - path: skills/receiving-code-review
@@ -90,7 +81,6 @@ directories:
     git:
       url: https://github.com/obra/superpowers.git
       ref: origin/main
-      depth: 1
     newRootPath: skills/receiving-code-review
 
 - path: skills/requesting-code-review
@@ -99,7 +89,6 @@ directories:
     git:
       url: https://github.com/obra/superpowers.git
       ref: origin/main
-      depth: 1
     newRootPath: skills/requesting-code-review
 
 - path: skills/subagent-driven-development
@@ -108,7 +97,6 @@ directories:
     git:
       url: https://github.com/obra/superpowers.git
       ref: origin/main
-      depth: 1
     newRootPath: skills/subagent-driven-development
 
 - path: skills/systematic-debugging
@@ -117,7 +105,6 @@ directories:
     git:
       url: https://github.com/obra/superpowers.git
       ref: origin/main
-      depth: 1
     newRootPath: skills/systematic-debugging
 
 - path: skills/test-driven-development
@@ -126,7 +113,6 @@ directories:
     git:
       url: https://github.com/obra/superpowers.git
       ref: origin/main
-      depth: 1
     newRootPath: skills/test-driven-development
 
 - path: skills/using-git-worktrees
@@ -135,7 +121,6 @@ directories:
     git:
       url: https://github.com/obra/superpowers.git
       ref: origin/main
-      depth: 1
     newRootPath: skills/using-git-worktrees
 
 - path: skills/using-superpowers
@@ -144,7 +129,6 @@ directories:
     git:
       url: https://github.com/obra/superpowers.git
       ref: origin/main
-      depth: 1
     newRootPath: skills/using-superpowers
 
 - path: skills/verification-before-completion
@@ -153,7 +137,6 @@ directories:
     git:
       url: https://github.com/obra/superpowers.git
       ref: origin/main
-      depth: 1
     newRootPath: skills/verification-before-completion
 
 - path: skills/writing-plans
@@ -162,7 +145,6 @@ directories:
     git:
       url: https://github.com/obra/superpowers.git
       ref: origin/main
-      depth: 1
     newRootPath: skills/writing-plans
 
 - path: skills/writing-skills
@@ -171,7 +153,6 @@ directories:
     git:
       url: https://github.com/obra/superpowers.git
       ref: origin/main
-      depth: 1
     newRootPath: skills/writing-skills
 
 - path: skills/emil-design-eng
@@ -180,7 +161,6 @@ directories:
     git:
       url: https://github.com/emilkowalski/skill.git
       ref: origin/main
-      depth: 1
     newRootPath: skills/emil-design-eng
 
 - path: skills/impeccable
@@ -189,7 +169,6 @@ directories:
     git:
       url: https://github.com/pbakaus/impeccable.git
       ref: origin/main
-      depth: 1
     newRootPath: .agents/skills/impeccable
 
 - path: skills/modern-web-guidance
@@ -198,7 +177,6 @@ directories:
     git:
       url: https://github.com/GoogleChrome/modern-web-guidance.git
       ref: origin/main
-      depth: 1
     newRootPath: skills/modern-web-guidance
 
 - path: skills/react-best-practices
@@ -207,7 +185,6 @@ directories:
     git:
       url: https://github.com/vercel-labs/agent-skills.git
       ref: origin/main
-      depth: 1
     newRootPath: skills/react-best-practices
 
 - path: skills/vocabulary
@@ -216,7 +193,6 @@ directories:
     git:
       url: https://github.com/index-how/vocabulary.git
       ref: origin/main
-      depth: 1
     newRootPath: skills/vocabulary
 
 - path: skills/web-design-guidelines
@@ -225,5 +201,4 @@ directories:
     git:
       url: https://github.com/vercel-labs/agent-skills.git
       ref: origin/main
-      depth: 1
     newRootPath: skills/web-design-guidelines

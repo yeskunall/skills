@@ -22,6 +22,8 @@ directories:
   - git:
       commitTitle: 'Merge pull request #586 from mattpocock/batch-grill-me-granular-facts...'
       sha: 9603c1cc8118d08bc1b3bf34cf714f62178dea3b
+      tags:
+      - v1.1.0-39-g9603c1c
     path: .
   path: skills/domain-modeling
 - contents:
@@ -53,12 +55,16 @@ directories:
   - git:
       commitTitle: 'Merge pull request #586 from mattpocock/batch-grill-me-granular-facts...'
       sha: 9603c1cc8118d08bc1b3bf34cf714f62178dea3b
+      tags:
+      - v1.1.0-39-g9603c1c
     path: .
   path: skills/grill-with-docs
 - contents:
   - git:
       commitTitle: 'Merge pull request #586 from mattpocock/batch-grill-me-granular-facts...'
       sha: 9603c1cc8118d08bc1b3bf34cf714f62178dea3b
+      tags:
+      - v1.1.0-39-g9603c1c
     path: .
   path: skills/grilling
 - contents:
@@ -167,6 +173,8 @@ directories:
   - git:
       commitTitle: Fix light-mode command demo contrast (#370)...
       sha: 8259c28209b92792005cec14dad573df39f68eaf
+      tags:
+      - skill-v3.9.1-44-g8259c282
     path: .
   path: skills/impeccable
 - contents:
