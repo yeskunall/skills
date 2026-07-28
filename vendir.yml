@@ -3,7 +3,8 @@ kind: Config
 minimumRequiredVersion: 0.46.0
 
 directories:
-- path: skills/brainstorming
+# obra/superpowers
+- path: skills/obra/brainstorming
   contents:
   - path: .
     git:
@@ -11,7 +12,7 @@ directories:
       ref: origin/main
     newRootPath: skills/brainstorming
 
-- path: skills/dispatching-parallel-agents
+- path: skills/obra/dispatching-parallel-agents
   contents:
   - path: .
     git:
@@ -19,15 +20,7 @@ directories:
       ref: origin/main
     newRootPath: skills/dispatching-parallel-agents
 
-- path: skills/domain-modeling
-  contents:
-  - path: .
-    git:
-      url: https://github.com/mattpocock/skills.git
-      ref: origin/main
-    newRootPath: skills/engineering/domain-modeling
-
-- path: skills/executing-plans
+- path: skills/obra/executing-plans
   contents:
   - path: .
     git:
@@ -35,7 +28,7 @@ directories:
       ref: origin/main
     newRootPath: skills/executing-plans
 
-- path: skills/finishing-a-development-branch
+- path: skills/obra/finishing-a-development-branch
   contents:
   - path: .
     git:
@@ -43,39 +36,7 @@ directories:
       ref: origin/main
     newRootPath: skills/finishing-a-development-branch
 
-- path: skills/git-commit
-  contents:
-  - path: .
-    git:
-      url: https://github.com/github/awesome-copilot.git
-      ref: origin/main
-    newRootPath: skills/git-commit
-
-- path: skills/grill-with-docs
-  contents:
-  - path: .
-    git:
-      url: https://github.com/mattpocock/skills.git
-      ref: origin/main
-    newRootPath: skills/engineering/grill-with-docs
-
-- path: skills/grilling
-  contents:
-  - path: .
-    git:
-      url: https://github.com/mattpocock/skills.git
-      ref: origin/main
-    newRootPath: skills/productivity/grilling
-
-- path: skills/improve-claude-md
-  contents:
-  - path: .
-    git:
-      url: https://github.com/humanlayer/skills.git
-      ref: origin/main
-    newRootPath: plugins/improve-claude-md/skills/improve-claude-md
-
-- path: skills/receiving-code-review
+- path: skills/obra/receiving-code-review
   contents:
   - path: .
     git:
@@ -83,7 +44,7 @@ directories:
       ref: origin/main
     newRootPath: skills/receiving-code-review
 
-- path: skills/requesting-code-review
+- path: skills/obra/requesting-code-review
   contents:
   - path: .
     git:
@@ -91,7 +52,7 @@ directories:
       ref: origin/main
     newRootPath: skills/requesting-code-review
 
-- path: skills/subagent-driven-development
+- path: skills/obra/subagent-driven-development
   contents:
   - path: .
     git:
@@ -99,7 +60,7 @@ directories:
       ref: origin/main
     newRootPath: skills/subagent-driven-development
 
-- path: skills/systematic-debugging
+- path: skills/obra/systematic-debugging
   contents:
   - path: .
     git:
@@ -107,7 +68,7 @@ directories:
       ref: origin/main
     newRootPath: skills/systematic-debugging
 
-- path: skills/test-driven-development
+- path: skills/obra/test-driven-development
   contents:
   - path: .
     git:
@@ -115,7 +76,7 @@ directories:
       ref: origin/main
     newRootPath: skills/test-driven-development
 
-- path: skills/using-git-worktrees
+- path: skills/obra/using-git-worktrees
   contents:
   - path: .
     git:
@@ -123,7 +84,7 @@ directories:
       ref: origin/main
     newRootPath: skills/using-git-worktrees
 
-- path: skills/using-superpowers
+- path: skills/obra/using-superpowers
   contents:
   - path: .
     git:
@@ -131,7 +92,7 @@ directories:
       ref: origin/main
     newRootPath: skills/using-superpowers
 
-- path: skills/verification-before-completion
+- path: skills/obra/verification-before-completion
   contents:
   - path: .
     git:
@@ -139,7 +100,7 @@ directories:
       ref: origin/main
     newRootPath: skills/verification-before-completion
 
-- path: skills/writing-plans
+- path: skills/obra/writing-plans
   contents:
   - path: .
     git:
@@ -147,7 +108,7 @@ directories:
       ref: origin/main
     newRootPath: skills/writing-plans
 
-- path: skills/writing-skills
+- path: skills/obra/writing-skills
   contents:
   - path: .
     git:
@@ -155,15 +116,116 @@ directories:
       ref: origin/main
     newRootPath: skills/writing-skills
 
-- path: skills/emil-design-eng
+# mattpocock/skills
+- path: skills/mattpocock/domain-modeling
   contents:
   - path: .
     git:
-      url: https://github.com/emilkowalski/skill.git
+      url: https://github.com/mattpocock/skills.git
+      ref: origin/main
+    newRootPath: skills/engineering/domain-modeling
+
+- path: skills/mattpocock/grill-with-docs
+  contents:
+  - path: .
+    git:
+      url: https://github.com/mattpocock/skills.git
+      ref: origin/main
+    newRootPath: skills/engineering/grill-with-docs
+
+- path: skills/mattpocock/grilling
+  contents:
+  - path: .
+    git:
+      url: https://github.com/mattpocock/skills.git
+      ref: origin/main
+    newRootPath: skills/productivity/grilling
+
+# github/awesome-copilot
+- path: skills/github/git-commit
+  contents:
+  - path: .
+    git:
+      url: https://github.com/github/awesome-copilot.git
+      ref: origin/main
+    newRootPath: skills/git-commit
+
+# humanlayer/skills
+- path: skills/humanlayer/improve-claude-md
+  contents:
+  - path: .
+    git:
+      url: https://github.com/humanlayer/skills.git
+      ref: origin/main
+    newRootPath: plugins/improve-claude-md/skills/improve-claude-md
+
+# emilkowalski/skills
+- path: skills/emilkowalski/animation-vocabulary
+  contents:
+  - path: .
+    git:
+      url: https://github.com/emilkowalski/skills.git
+      ref: origin/main
+    newRootPath: skills/animation-vocabulary
+
+- path: skills/emilkowalski/apple-design
+  contents:
+  - path: .
+    git:
+      url: https://github.com/emilkowalski/skills.git
+      ref: origin/main
+    newRootPath: skills/apple-design
+
+- path: skills/emilkowalski/emil-design-eng
+  contents:
+  - path: .
+    git:
+      url: https://github.com/emilkowalski/skills.git
       ref: origin/main
     newRootPath: skills/emil-design-eng
 
-- path: skills/impeccable
+- path: skills/emilkowalski/find-animation-opportunities
+  contents:
+  - path: .
+    git:
+      url: https://github.com/emilkowalski/skills.git
+      ref: origin/main
+    newRootPath: skills/find-animation-opportunities
+
+- path: skills/emilkowalski/improve-animations
+  contents:
+  - path: .
+    git:
+      url: https://github.com/emilkowalski/skills.git
+      ref: origin/main
+    newRootPath: skills/improve-animations
+
+- path: skills/emilkowalski/pick-ui-library
+  contents:
+  - path: .
+    git:
+      url: https://github.com/emilkowalski/skills.git
+      ref: origin/main
+    newRootPath: skills/pick-ui-library
+
+- path: skills/emilkowalski/prototype
+  contents:
+  - path: .
+    git:
+      url: https://github.com/emilkowalski/skills.git
+      ref: origin/main
+    newRootPath: skills/prototype
+
+- path: skills/emilkowalski/review-animations
+  contents:
+  - path: .
+    git:
+      url: https://github.com/emilkowalski/skills.git
+      ref: origin/main
+    newRootPath: skills/review-animations
+
+# pbakaus/impeccable
+- path: skills/pbakaus/impeccable
   contents:
   - path: .
     git:
@@ -171,7 +233,8 @@ directories:
       ref: origin/main
     newRootPath: .agents/skills/impeccable
 
-- path: skills/modern-web-guidance
+# GoogleChrome/modern-web-guidance
+- path: skills/googlechrome/modern-web-guidance
   contents:
   - path: .
     git:
@@ -179,7 +242,8 @@ directories:
       ref: origin/main
     newRootPath: skills/modern-web-guidance
 
-- path: skills/react-best-practices
+# vercel-labs/agent-skills
+- path: skills/vercel-labs/react-best-practices
   contents:
   - path: .
     git:
@@ -187,18 +251,19 @@ directories:
       ref: origin/main
     newRootPath: skills/react-best-practices
 
-- path: skills/vocabulary
-  contents:
-  - path: .
-    git:
-      url: https://github.com/index-how/vocabulary.git
-      ref: origin/main
-    newRootPath: skills/vocabulary
-
-- path: skills/web-design-guidelines
+- path: skills/vercel-labs/web-design-guidelines
   contents:
   - path: .
     git:
       url: https://github.com/vercel-labs/agent-skills.git
       ref: origin/main
     newRootPath: skills/web-design-guidelines
+
+# index-how/vocabulary
+- path: skills/index-how/vocabulary
+  contents:
+  - path: .
+    git:
+      url: https://github.com/index-how/vocabulary.git
+      ref: origin/main
+    newRootPath: skills/vocabulary

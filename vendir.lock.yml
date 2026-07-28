@@ -8,7 +8,7 @@ directories:
       tags:
       - v6.2.0
     path: .
-  path: skills/brainstorming
+  path: skills/obra/brainstorming
 - contents:
   - git:
       commitTitle: 'Release v6.2.0: SDD plan-scoped workspace and resume-based fix
@@ -17,7 +17,115 @@ directories:
       tags:
       - v6.2.0
     path: .
-  path: skills/dispatching-parallel-agents
+  path: skills/obra/dispatching-parallel-agents
+- contents:
+  - git:
+      commitTitle: 'Release v6.2.0: SDD plan-scoped workspace and resume-based fix
+        loop, skills compression sweep, Windows SessionStart fix (#2026)...'
+      sha: 3dcbd5c4b48e02263fbf4a3c01e3fe4f81d584d9
+      tags:
+      - v6.2.0
+    path: .
+  path: skills/obra/executing-plans
+- contents:
+  - git:
+      commitTitle: 'Release v6.2.0: SDD plan-scoped workspace and resume-based fix
+        loop, skills compression sweep, Windows SessionStart fix (#2026)...'
+      sha: 3dcbd5c4b48e02263fbf4a3c01e3fe4f81d584d9
+      tags:
+      - v6.2.0
+    path: .
+  path: skills/obra/finishing-a-development-branch
+- contents:
+  - git:
+      commitTitle: 'Release v6.2.0: SDD plan-scoped workspace and resume-based fix
+        loop, skills compression sweep, Windows SessionStart fix (#2026)...'
+      sha: 3dcbd5c4b48e02263fbf4a3c01e3fe4f81d584d9
+      tags:
+      - v6.2.0
+    path: .
+  path: skills/obra/receiving-code-review
+- contents:
+  - git:
+      commitTitle: 'Release v6.2.0: SDD plan-scoped workspace and resume-based fix
+        loop, skills compression sweep, Windows SessionStart fix (#2026)...'
+      sha: 3dcbd5c4b48e02263fbf4a3c01e3fe4f81d584d9
+      tags:
+      - v6.2.0
+    path: .
+  path: skills/obra/requesting-code-review
+- contents:
+  - git:
+      commitTitle: 'Release v6.2.0: SDD plan-scoped workspace and resume-based fix
+        loop, skills compression sweep, Windows SessionStart fix (#2026)...'
+      sha: 3dcbd5c4b48e02263fbf4a3c01e3fe4f81d584d9
+      tags:
+      - v6.2.0
+    path: .
+  path: skills/obra/subagent-driven-development
+- contents:
+  - git:
+      commitTitle: 'Release v6.2.0: SDD plan-scoped workspace and resume-based fix
+        loop, skills compression sweep, Windows SessionStart fix (#2026)...'
+      sha: 3dcbd5c4b48e02263fbf4a3c01e3fe4f81d584d9
+      tags:
+      - v6.2.0
+    path: .
+  path: skills/obra/systematic-debugging
+- contents:
+  - git:
+      commitTitle: 'Release v6.2.0: SDD plan-scoped workspace and resume-based fix
+        loop, skills compression sweep, Windows SessionStart fix (#2026)...'
+      sha: 3dcbd5c4b48e02263fbf4a3c01e3fe4f81d584d9
+      tags:
+      - v6.2.0
+    path: .
+  path: skills/obra/test-driven-development
+- contents:
+  - git:
+      commitTitle: 'Release v6.2.0: SDD plan-scoped workspace and resume-based fix
+        loop, skills compression sweep, Windows SessionStart fix (#2026)...'
+      sha: 3dcbd5c4b48e02263fbf4a3c01e3fe4f81d584d9
+      tags:
+      - v6.2.0
+    path: .
+  path: skills/obra/using-git-worktrees
+- contents:
+  - git:
+      commitTitle: 'Release v6.2.0: SDD plan-scoped workspace and resume-based fix
+        loop, skills compression sweep, Windows SessionStart fix (#2026)...'
+      sha: 3dcbd5c4b48e02263fbf4a3c01e3fe4f81d584d9
+      tags:
+      - v6.2.0
+    path: .
+  path: skills/obra/using-superpowers
+- contents:
+  - git:
+      commitTitle: 'Release v6.2.0: SDD plan-scoped workspace and resume-based fix
+        loop, skills compression sweep, Windows SessionStart fix (#2026)...'
+      sha: 3dcbd5c4b48e02263fbf4a3c01e3fe4f81d584d9
+      tags:
+      - v6.2.0
+    path: .
+  path: skills/obra/verification-before-completion
+- contents:
+  - git:
+      commitTitle: 'Release v6.2.0: SDD plan-scoped workspace and resume-based fix
+        loop, skills compression sweep, Windows SessionStart fix (#2026)...'
+      sha: 3dcbd5c4b48e02263fbf4a3c01e3fe4f81d584d9
+      tags:
+      - v6.2.0
+    path: .
+  path: skills/obra/writing-plans
+- contents:
+  - git:
+      commitTitle: 'Release v6.2.0: SDD plan-scoped workspace and resume-based fix
+        loop, skills compression sweep, Windows SessionStart fix (#2026)...'
+      sha: 3dcbd5c4b48e02263fbf4a3c01e3fe4f81d584d9
+      tags:
+      - v6.2.0
+    path: .
+  path: skills/obra/writing-skills
 - contents:
   - git:
       commitTitle: 'refactor(to-tickets): remove redundant instructions for ticket
@@ -26,152 +134,86 @@ directories:
       tags:
       - v1.1.0-40-ged37663
     path: .
-  path: skills/domain-modeling
+  path: skills/mattpocock/domain-modeling
 - contents:
   - git:
-      commitTitle: 'Release v6.2.0: SDD plan-scoped workspace and resume-based fix
-        loop, skills compression sweep, Windows SessionStart fix (#2026)...'
-      sha: 3dcbd5c4b48e02263fbf4a3c01e3fe4f81d584d9
+      commitTitle: 'refactor(to-tickets): remove redundant instructions for ticket
+        implementation'
+      sha: ed37663cc5fbef691ddfecd080dff42f7e7e350d
       tags:
-      - v6.2.0
+      - v1.1.0-40-ged37663
     path: .
-  path: skills/executing-plans
+  path: skills/mattpocock/grill-with-docs
 - contents:
   - git:
-      commitTitle: 'Release v6.2.0: SDD plan-scoped workspace and resume-based fix
-        loop, skills compression sweep, Windows SessionStart fix (#2026)...'
-      sha: 3dcbd5c4b48e02263fbf4a3c01e3fe4f81d584d9
+      commitTitle: 'refactor(to-tickets): remove redundant instructions for ticket
+        implementation'
+      sha: ed37663cc5fbef691ddfecd080dff42f7e7e350d
       tags:
-      - v6.2.0
+      - v1.1.0-40-ged37663
     path: .
-  path: skills/finishing-a-development-branch
+  path: skills/mattpocock/grilling
 - contents:
   - git:
       commitTitle: Fix nested code fences in aws-well-architected-review issue template
         (#2449)...
       sha: b94ae92ab0a6fa695803f1b79b2e41a904a237db
     path: .
-  path: skills/git-commit
-- contents:
-  - git:
-      commitTitle: 'refactor(to-tickets): remove redundant instructions for ticket
-        implementation'
-      sha: ed37663cc5fbef691ddfecd080dff42f7e7e350d
-      tags:
-      - v1.1.0-40-ged37663
-    path: .
-  path: skills/grill-with-docs
-- contents:
-  - git:
-      commitTitle: 'refactor(to-tickets): remove redundant instructions for ticket
-        implementation'
-      sha: ed37663cc5fbef691ddfecd080dff42f7e7e350d
-      tags:
-      - v1.1.0-40-ged37663
-    path: .
-  path: skills/grilling
+  path: skills/github/git-commit
 - contents:
   - git:
       commitTitle: 'feat: add design-control-loop skill...'
       sha: 39fb32786ae7a7cd864cf2c237148c38b1e4db07
     path: .
-  path: skills/improve-claude-md
-- contents:
-  - git:
-      commitTitle: 'Release v6.2.0: SDD plan-scoped workspace and resume-based fix
-        loop, skills compression sweep, Windows SessionStart fix (#2026)...'
-      sha: 3dcbd5c4b48e02263fbf4a3c01e3fe4f81d584d9
-      tags:
-      - v6.2.0
-    path: .
-  path: skills/receiving-code-review
-- contents:
-  - git:
-      commitTitle: 'Release v6.2.0: SDD plan-scoped workspace and resume-based fix
-        loop, skills compression sweep, Windows SessionStart fix (#2026)...'
-      sha: 3dcbd5c4b48e02263fbf4a3c01e3fe4f81d584d9
-      tags:
-      - v6.2.0
-    path: .
-  path: skills/requesting-code-review
-- contents:
-  - git:
-      commitTitle: 'Release v6.2.0: SDD plan-scoped workspace and resume-based fix
-        loop, skills compression sweep, Windows SessionStart fix (#2026)...'
-      sha: 3dcbd5c4b48e02263fbf4a3c01e3fe4f81d584d9
-      tags:
-      - v6.2.0
-    path: .
-  path: skills/subagent-driven-development
-- contents:
-  - git:
-      commitTitle: 'Release v6.2.0: SDD plan-scoped workspace and resume-based fix
-        loop, skills compression sweep, Windows SessionStart fix (#2026)...'
-      sha: 3dcbd5c4b48e02263fbf4a3c01e3fe4f81d584d9
-      tags:
-      - v6.2.0
-    path: .
-  path: skills/systematic-debugging
-- contents:
-  - git:
-      commitTitle: 'Release v6.2.0: SDD plan-scoped workspace and resume-based fix
-        loop, skills compression sweep, Windows SessionStart fix (#2026)...'
-      sha: 3dcbd5c4b48e02263fbf4a3c01e3fe4f81d584d9
-      tags:
-      - v6.2.0
-    path: .
-  path: skills/test-driven-development
-- contents:
-  - git:
-      commitTitle: 'Release v6.2.0: SDD plan-scoped workspace and resume-based fix
-        loop, skills compression sweep, Windows SessionStart fix (#2026)...'
-      sha: 3dcbd5c4b48e02263fbf4a3c01e3fe4f81d584d9
-      tags:
-      - v6.2.0
-    path: .
-  path: skills/using-git-worktrees
-- contents:
-  - git:
-      commitTitle: 'Release v6.2.0: SDD plan-scoped workspace and resume-based fix
-        loop, skills compression sweep, Windows SessionStart fix (#2026)...'
-      sha: 3dcbd5c4b48e02263fbf4a3c01e3fe4f81d584d9
-      tags:
-      - v6.2.0
-    path: .
-  path: skills/using-superpowers
-- contents:
-  - git:
-      commitTitle: 'Release v6.2.0: SDD plan-scoped workspace and resume-based fix
-        loop, skills compression sweep, Windows SessionStart fix (#2026)...'
-      sha: 3dcbd5c4b48e02263fbf4a3c01e3fe4f81d584d9
-      tags:
-      - v6.2.0
-    path: .
-  path: skills/verification-before-completion
-- contents:
-  - git:
-      commitTitle: 'Release v6.2.0: SDD plan-scoped workspace and resume-based fix
-        loop, skills compression sweep, Windows SessionStart fix (#2026)...'
-      sha: 3dcbd5c4b48e02263fbf4a3c01e3fe4f81d584d9
-      tags:
-      - v6.2.0
-    path: .
-  path: skills/writing-plans
-- contents:
-  - git:
-      commitTitle: 'Release v6.2.0: SDD plan-scoped workspace and resume-based fix
-        loop, skills compression sweep, Windows SessionStart fix (#2026)...'
-      sha: 3dcbd5c4b48e02263fbf4a3c01e3fe4f81d584d9
-      tags:
-      - v6.2.0
-    path: .
-  path: skills/writing-skills
+  path: skills/humanlayer/improve-claude-md
 - contents:
   - git:
       commitTitle: Add /prototype skill
       sha: 70744e3816f1d93eafb697161a8b880a7384c5ff
     path: .
-  path: skills/emil-design-eng
+  path: skills/emilkowalski/animation-vocabulary
+- contents:
+  - git:
+      commitTitle: Add /prototype skill
+      sha: 70744e3816f1d93eafb697161a8b880a7384c5ff
+    path: .
+  path: skills/emilkowalski/apple-design
+- contents:
+  - git:
+      commitTitle: Add /prototype skill
+      sha: 70744e3816f1d93eafb697161a8b880a7384c5ff
+    path: .
+  path: skills/emilkowalski/emil-design-eng
+- contents:
+  - git:
+      commitTitle: Add /prototype skill
+      sha: 70744e3816f1d93eafb697161a8b880a7384c5ff
+    path: .
+  path: skills/emilkowalski/find-animation-opportunities
+- contents:
+  - git:
+      commitTitle: Add /prototype skill
+      sha: 70744e3816f1d93eafb697161a8b880a7384c5ff
+    path: .
+  path: skills/emilkowalski/improve-animations
+- contents:
+  - git:
+      commitTitle: Add /prototype skill
+      sha: 70744e3816f1d93eafb697161a8b880a7384c5ff
+    path: .
+  path: skills/emilkowalski/pick-ui-library
+- contents:
+  - git:
+      commitTitle: Add /prototype skill
+      sha: 70744e3816f1d93eafb697161a8b880a7384c5ff
+    path: .
+  path: skills/emilkowalski/prototype
+- contents:
+  - git:
+      commitTitle: Add /prototype skill
+      sha: 70744e3816f1d93eafb697161a8b880a7384c5ff
+    path: .
+  path: skills/emilkowalski/review-animations
 - contents:
   - git:
       commitTitle: 'Release bumps: skill 4.0.3, CLI 3.4.0, extension 1.3.0, with synced
@@ -180,7 +222,7 @@ directories:
       tags:
       - ext-v1.3.0
     path: .
-  path: skills/impeccable
+  path: skills/pbakaus/impeccable
 - contents:
   - git:
       commitTitle: Release v0.0.178
@@ -188,23 +230,23 @@ directories:
       tags:
       - v0.0.178
     path: .
-  path: skills/modern-web-guidance
+  path: skills/googlechrome/modern-web-guidance
 - contents:
   - git:
       commitTitle: 'Merge pull request #310 from vercel-labs/fix-install-command...'
       sha: 7c180d9044c9ae2b442b567aad4e42a28dd5ed62
     path: .
-  path: skills/react-best-practices
+  path: skills/vercel-labs/react-best-practices
+- contents:
+  - git:
+      commitTitle: 'Merge pull request #310 from vercel-labs/fix-install-command...'
+      sha: 7c180d9044c9ae2b442b567aad4e42a28dd5ed62
+    path: .
+  path: skills/vercel-labs/web-design-guidelines
 - contents:
   - git:
       commitTitle: Add skill
       sha: b2d53205a03a6538c394b22f28ea175fdbfb97e3
     path: .
-  path: skills/vocabulary
-- contents:
-  - git:
-      commitTitle: 'Merge pull request #310 from vercel-labs/fix-install-command...'
-      sha: 7c180d9044c9ae2b442b567aad4e42a28dd5ed62
-    path: .
-  path: skills/web-design-guidelines
+  path: skills/index-how/vocabulary
 kind: LockConfig
