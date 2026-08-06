@@ -2,162 +2,144 @@ apiVersion: vendir.k14s.io/v1alpha1
 directories:
 - contents:
   - git:
-      commitTitle: 'Release v6.2.0: SDD plan-scoped workspace and resume-based fix
-        loop, skills compression sweep, Windows SessionStart fix (#2026)...'
-      sha: 3dcbd5c4b48e02263fbf4a3c01e3fe4f81d584d9
+      commitTitle: 'docs: remove the "We''re Hiring" section from the README...'
+      sha: 44c9b2d6e889982ac18c27d05a19fefe335194e1
       tags:
-      - v6.2.0
+      - v6.2.0-1-g44c9b2d
     path: .
   path: skills/obra/brainstorming
 - contents:
   - git:
-      commitTitle: 'Release v6.2.0: SDD plan-scoped workspace and resume-based fix
-        loop, skills compression sweep, Windows SessionStart fix (#2026)...'
-      sha: 3dcbd5c4b48e02263fbf4a3c01e3fe4f81d584d9
+      commitTitle: 'docs: remove the "We''re Hiring" section from the README...'
+      sha: 44c9b2d6e889982ac18c27d05a19fefe335194e1
       tags:
-      - v6.2.0
+      - v6.2.0-1-g44c9b2d
     path: .
   path: skills/obra/dispatching-parallel-agents
 - contents:
   - git:
-      commitTitle: 'Release v6.2.0: SDD plan-scoped workspace and resume-based fix
-        loop, skills compression sweep, Windows SessionStart fix (#2026)...'
-      sha: 3dcbd5c4b48e02263fbf4a3c01e3fe4f81d584d9
+      commitTitle: 'docs: remove the "We''re Hiring" section from the README...'
+      sha: 44c9b2d6e889982ac18c27d05a19fefe335194e1
       tags:
-      - v6.2.0
+      - v6.2.0-1-g44c9b2d
     path: .
   path: skills/obra/executing-plans
 - contents:
   - git:
-      commitTitle: 'Release v6.2.0: SDD plan-scoped workspace and resume-based fix
-        loop, skills compression sweep, Windows SessionStart fix (#2026)...'
-      sha: 3dcbd5c4b48e02263fbf4a3c01e3fe4f81d584d9
+      commitTitle: 'docs: remove the "We''re Hiring" section from the README...'
+      sha: 44c9b2d6e889982ac18c27d05a19fefe335194e1
       tags:
-      - v6.2.0
+      - v6.2.0-1-g44c9b2d
     path: .
   path: skills/obra/finishing-a-development-branch
 - contents:
   - git:
-      commitTitle: 'Release v6.2.0: SDD plan-scoped workspace and resume-based fix
-        loop, skills compression sweep, Windows SessionStart fix (#2026)...'
-      sha: 3dcbd5c4b48e02263fbf4a3c01e3fe4f81d584d9
+      commitTitle: 'docs: remove the "We''re Hiring" section from the README...'
+      sha: 44c9b2d6e889982ac18c27d05a19fefe335194e1
       tags:
-      - v6.2.0
+      - v6.2.0-1-g44c9b2d
     path: .
   path: skills/obra/receiving-code-review
 - contents:
   - git:
-      commitTitle: 'Release v6.2.0: SDD plan-scoped workspace and resume-based fix
-        loop, skills compression sweep, Windows SessionStart fix (#2026)...'
-      sha: 3dcbd5c4b48e02263fbf4a3c01e3fe4f81d584d9
+      commitTitle: 'docs: remove the "We''re Hiring" section from the README...'
+      sha: 44c9b2d6e889982ac18c27d05a19fefe335194e1
       tags:
-      - v6.2.0
+      - v6.2.0-1-g44c9b2d
     path: .
   path: skills/obra/requesting-code-review
 - contents:
   - git:
-      commitTitle: 'Release v6.2.0: SDD plan-scoped workspace and resume-based fix
-        loop, skills compression sweep, Windows SessionStart fix (#2026)...'
-      sha: 3dcbd5c4b48e02263fbf4a3c01e3fe4f81d584d9
+      commitTitle: 'docs: remove the "We''re Hiring" section from the README...'
+      sha: 44c9b2d6e889982ac18c27d05a19fefe335194e1
       tags:
-      - v6.2.0
+      - v6.2.0-1-g44c9b2d
     path: .
   path: skills/obra/subagent-driven-development
 - contents:
   - git:
-      commitTitle: 'Release v6.2.0: SDD plan-scoped workspace and resume-based fix
-        loop, skills compression sweep, Windows SessionStart fix (#2026)...'
-      sha: 3dcbd5c4b48e02263fbf4a3c01e3fe4f81d584d9
+      commitTitle: 'docs: remove the "We''re Hiring" section from the README...'
+      sha: 44c9b2d6e889982ac18c27d05a19fefe335194e1
       tags:
-      - v6.2.0
+      - v6.2.0-1-g44c9b2d
     path: .
   path: skills/obra/systematic-debugging
 - contents:
   - git:
-      commitTitle: 'Release v6.2.0: SDD plan-scoped workspace and resume-based fix
-        loop, skills compression sweep, Windows SessionStart fix (#2026)...'
-      sha: 3dcbd5c4b48e02263fbf4a3c01e3fe4f81d584d9
+      commitTitle: 'docs: remove the "We''re Hiring" section from the README...'
+      sha: 44c9b2d6e889982ac18c27d05a19fefe335194e1
       tags:
-      - v6.2.0
+      - v6.2.0-1-g44c9b2d
     path: .
   path: skills/obra/test-driven-development
 - contents:
   - git:
-      commitTitle: 'Release v6.2.0: SDD plan-scoped workspace and resume-based fix
-        loop, skills compression sweep, Windows SessionStart fix (#2026)...'
-      sha: 3dcbd5c4b48e02263fbf4a3c01e3fe4f81d584d9
+      commitTitle: 'docs: remove the "We''re Hiring" section from the README...'
+      sha: 44c9b2d6e889982ac18c27d05a19fefe335194e1
       tags:
-      - v6.2.0
+      - v6.2.0-1-g44c9b2d
     path: .
   path: skills/obra/using-git-worktrees
 - contents:
   - git:
-      commitTitle: 'Release v6.2.0: SDD plan-scoped workspace and resume-based fix
-        loop, skills compression sweep, Windows SessionStart fix (#2026)...'
-      sha: 3dcbd5c4b48e02263fbf4a3c01e3fe4f81d584d9
+      commitTitle: 'docs: remove the "We''re Hiring" section from the README...'
+      sha: 44c9b2d6e889982ac18c27d05a19fefe335194e1
       tags:
-      - v6.2.0
+      - v6.2.0-1-g44c9b2d
     path: .
   path: skills/obra/using-superpowers
 - contents:
   - git:
-      commitTitle: 'Release v6.2.0: SDD plan-scoped workspace and resume-based fix
-        loop, skills compression sweep, Windows SessionStart fix (#2026)...'
-      sha: 3dcbd5c4b48e02263fbf4a3c01e3fe4f81d584d9
+      commitTitle: 'docs: remove the "We''re Hiring" section from the README...'
+      sha: 44c9b2d6e889982ac18c27d05a19fefe335194e1
       tags:
-      - v6.2.0
+      - v6.2.0-1-g44c9b2d
     path: .
   path: skills/obra/verification-before-completion
 - contents:
   - git:
-      commitTitle: 'Release v6.2.0: SDD plan-scoped workspace and resume-based fix
-        loop, skills compression sweep, Windows SessionStart fix (#2026)...'
-      sha: 3dcbd5c4b48e02263fbf4a3c01e3fe4f81d584d9
+      commitTitle: 'docs: remove the "We''re Hiring" section from the README...'
+      sha: 44c9b2d6e889982ac18c27d05a19fefe335194e1
       tags:
-      - v6.2.0
+      - v6.2.0-1-g44c9b2d
     path: .
   path: skills/obra/writing-plans
 - contents:
   - git:
-      commitTitle: 'Release v6.2.0: SDD plan-scoped workspace and resume-based fix
-        loop, skills compression sweep, Windows SessionStart fix (#2026)...'
-      sha: 3dcbd5c4b48e02263fbf4a3c01e3fe4f81d584d9
+      commitTitle: 'docs: remove the "We''re Hiring" section from the README...'
+      sha: 44c9b2d6e889982ac18c27d05a19fefe335194e1
       tags:
-      - v6.2.0
+      - v6.2.0-1-g44c9b2d
     path: .
   path: skills/obra/writing-skills
 - contents:
   - git:
-      commitTitle: 'refactor(to-tickets): remove redundant instructions for ticket
-        implementation'
-      sha: ed37663cc5fbef691ddfecd080dff42f7e7e350d
+      commitTitle: 'Merge pull request #768 from mattpocock/changeset-release/main...'
+      sha: 8b36d4fb2635b3c21998dcd8144439c9e5ba7302
       tags:
-      - v1.1.0-40-ged37663
+      - v1.2.2
     path: .
   path: skills/mattpocock/domain-modeling
 - contents:
   - git:
-      commitTitle: 'refactor(to-tickets): remove redundant instructions for ticket
-        implementation'
-      sha: ed37663cc5fbef691ddfecd080dff42f7e7e350d
+      commitTitle: 'Merge pull request #768 from mattpocock/changeset-release/main...'
+      sha: 8b36d4fb2635b3c21998dcd8144439c9e5ba7302
       tags:
-      - v1.1.0-40-ged37663
+      - v1.2.2
     path: .
   path: skills/mattpocock/grill-with-docs
 - contents:
   - git:
-      commitTitle: 'refactor(to-tickets): remove redundant instructions for ticket
-        implementation'
-      sha: ed37663cc5fbef691ddfecd080dff42f7e7e350d
+      commitTitle: 'Merge pull request #768 from mattpocock/changeset-release/main...'
+      sha: 8b36d4fb2635b3c21998dcd8144439c9e5ba7302
       tags:
-      - v1.1.0-40-ged37663
+      - v1.2.2
     path: .
   path: skills/mattpocock/grilling
 - contents:
   - git:
-      commitTitle: Fix nested code fences in aws-well-architected-review issue template
-        (#2449)...
-      sha: b94ae92ab0a6fa695803f1b79b2e41a904a237db
+      commitTitle: New "Azd best practices" skill (#2549)...
+      sha: 6c7fe1b15f1be7e29d3aaf04fb3423ee5a226353
     path: .
   path: skills/github/git-commit
 - contents:
@@ -168,67 +150,66 @@ directories:
   path: skills/humanlayer/improve-claude-md
 - contents:
   - git:
-      commitTitle: Add /prototype skill
-      sha: 70744e3816f1d93eafb697161a8b880a7384c5ff
+      commitTitle: Add /animate skill
+      sha: de33dbed000212b54400a33767d1e4d03654db2a
     path: .
   path: skills/emilkowalski/animation-vocabulary
 - contents:
   - git:
-      commitTitle: Add /prototype skill
-      sha: 70744e3816f1d93eafb697161a8b880a7384c5ff
+      commitTitle: Add /animate skill
+      sha: de33dbed000212b54400a33767d1e4d03654db2a
     path: .
   path: skills/emilkowalski/apple-design
 - contents:
   - git:
-      commitTitle: Add /prototype skill
-      sha: 70744e3816f1d93eafb697161a8b880a7384c5ff
+      commitTitle: Add /animate skill
+      sha: de33dbed000212b54400a33767d1e4d03654db2a
     path: .
   path: skills/emilkowalski/emil-design-eng
 - contents:
   - git:
-      commitTitle: Add /prototype skill
-      sha: 70744e3816f1d93eafb697161a8b880a7384c5ff
+      commitTitle: Add /animate skill
+      sha: de33dbed000212b54400a33767d1e4d03654db2a
     path: .
   path: skills/emilkowalski/find-animation-opportunities
 - contents:
   - git:
-      commitTitle: Add /prototype skill
-      sha: 70744e3816f1d93eafb697161a8b880a7384c5ff
+      commitTitle: Add /animate skill
+      sha: de33dbed000212b54400a33767d1e4d03654db2a
     path: .
   path: skills/emilkowalski/improve-animations
 - contents:
   - git:
-      commitTitle: Add /prototype skill
-      sha: 70744e3816f1d93eafb697161a8b880a7384c5ff
+      commitTitle: Add /animate skill
+      sha: de33dbed000212b54400a33767d1e4d03654db2a
     path: .
   path: skills/emilkowalski/pick-ui-library
 - contents:
   - git:
-      commitTitle: Add /prototype skill
-      sha: 70744e3816f1d93eafb697161a8b880a7384c5ff
+      commitTitle: Add /animate skill
+      sha: de33dbed000212b54400a33767d1e4d03654db2a
     path: .
   path: skills/emilkowalski/prototype
 - contents:
   - git:
-      commitTitle: Add /prototype skill
-      sha: 70744e3816f1d93eafb697161a8b880a7384c5ff
+      commitTitle: Add /animate skill
+      sha: de33dbed000212b54400a33767d1e4d03654db2a
     path: .
   path: skills/emilkowalski/review-animations
 - contents:
   - git:
-      commitTitle: 'Release bumps: skill 4.0.3, CLI 3.4.0, extension 1.3.0, with synced
-        output...'
-      sha: 68b1129634a1cdd9a0ba50b27376c71b4b083ae8
+      commitTitle: Simplify CSS color channel parsing (#520)...
+      sha: a075d89bdbe60b2b00220cb0527fb5091e84215e
       tags:
-      - ext-v1.3.0
+      - ext-v1.3.1-100-ga075d89b
     path: .
   path: skills/pbakaus/impeccable
 - contents:
   - git:
-      commitTitle: Release v0.0.178
-      sha: ccb800c9519286eaa7263d30c409e5bc9c0c6d9f
+      commitTitle: Release v0.0.179
+      sha: 684ab9d7c6b78fc2cd5677912d874397cb2e5dfa
       tags:
-      - v0.0.178
+      - v0.0.179
     path: .
   path: skills/googlechrome/modern-web-guidance
 - contents:
