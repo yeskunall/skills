@@ -141,15 +141,6 @@ directories:
       ref: origin/main
     newRootPath: skills/productivity/grilling
 
-# github/awesome-copilot
-- path: skills/github/git-commit
-  contents:
-  - path: .
-    git:
-      url: https://github.com/github/awesome-copilot.git
-      ref: origin/main
-    newRootPath: skills/git-commit
-
 # humanlayer/skills
 - path: skills/humanlayer/improve-claude-md
   contents:

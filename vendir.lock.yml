@@ -138,12 +138,6 @@ directories:
   path: skills/mattpocock/grilling
 - contents:
   - git:
-      commitTitle: New "Azd best practices" skill (#2549)...
-      sha: 6c7fe1b15f1be7e29d3aaf04fb3423ee5a226353
-    path: .
-  path: skills/github/git-commit
-- contents:
-  - git:
       commitTitle: 'feat: add design-control-loop skill...'
       sha: 39fb32786ae7a7cd864cf2c237148c38b1e4db07
     path: .
